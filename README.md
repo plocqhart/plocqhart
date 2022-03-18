@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plocqhart
-- 👀 I’m interested in audio,auto,security.sensors
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in audio,auto,security,sensors
+- 🌱 I’m currently learning python and VSS2022
+- 💞️ I’m not looking to collaborate at the moment
 - 📫 How to reach me ...
 
 <!---
